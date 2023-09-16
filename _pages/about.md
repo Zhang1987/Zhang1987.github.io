@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am machine learning scientist with Economics background.  My passion is applying machine learning, statistics, and econometrics model to build data-driven algorithms. I am interested in deep learning, machine learing, and causal inference. 
+I am a machine learning scientist with Economics background.  My passion is applying machine learning, statistics, and econometrics model to build data-driven algorithms. I am interested in deep learning, machine learing, and causal inference. 
